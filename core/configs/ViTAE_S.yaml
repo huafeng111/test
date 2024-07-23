@@ -1,0 +1,8 @@
+MODEL:
+  TYPE: 'vitae'
+  CUT_AND_PASTE:
+    TYPE: 'NONE'
+
+DATA:
+  CUT_AND_PASTE:
+    TYPE: 'NONE'
